@@ -13,4 +13,10 @@
 *Birthday Reminder
 *drink water reminder
 *reading reminder
-**Hotel Designs*
+**Approved Hotel Designs**
+https://www.figma.com/file/B9XOfyQrCspmZZ5a0odJbr/HOTEL-WEBSITE-DESIGN?node-id=0%3A1 By @Iykee
+https://www.figma.com/file/qtg1GCRf1ha4QsmGGiFWkd/Hotel-Website-Task?node-id=0%3A1 By @BigJoe
+https://www.figma.com/file/wC2vYy8Jzfw0lgOtZ3UxPW/Hotel-Ui?node-id=0%3A1 By @Deji17
+https://www.figma.com/file/CypYHHWsaT7rOErPDWMhPx/TheCosmopoiltanHotel?node-id=0%3A1 By @DmaskedOne
+https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 By @Dhabs
+
